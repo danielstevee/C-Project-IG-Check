@@ -1,3 +1,5 @@
+<img width="580" height="461" alt="Flowchart Project-IG-Check" src="https://github.com/user-attachments/assets/b8ef5a09-e75b-4262-94ce-8c646735ace9" />
+
 # 📊 Instagram Follow Checker
 
 Sebuah tool sederhana berbasis Python untuk membandingkan data followers dan following dari hasil export data Instagram dalam format JSON.
